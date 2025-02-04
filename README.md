@@ -16,7 +16,7 @@ This repository contains a backend implementation of an authentication system wh
 
 - **MongoDB Storage:** User data and OTPs are stored in a MongoDB database.
 
-**Technologies Used**
+## **Technologies Used**
 - **Node.js:** JavaScript runtime environment.
 
 - **Express:** Web framework for Node.js.
