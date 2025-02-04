@@ -27,4 +27,4 @@ This repository contains a backend implementation of an authentication system wh
 
 - **JWT (JSON Web Tokens):** For secure user authentication.
 
-Bcrypt: For hashing passwords.
+- **Bcrypt:** For hashing passwords.
